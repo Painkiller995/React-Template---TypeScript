@@ -15,7 +15,7 @@ A simple and efficient React template for jumpstarting your web development proj
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Painkiller995/React-Template-TypeScript.git
+   git clone https://github.com/Painkiller995/React-Template-TypeScript-Webpack.git
    cd React-Template-TypeScript
    ```
 
